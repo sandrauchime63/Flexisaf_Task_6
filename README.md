@@ -5,4 +5,6 @@ Notebook with RAG-powered Q&A — respond to domain-specific questions using ret
  
  	
 ## How to Run
-# Flexisaf_Task_6
+- pip install langchain langchain-text-splitters langchain-community bs4
+- pip install -U "langchain[huggingface]"
+- pip install -qU langchain-huggingface
